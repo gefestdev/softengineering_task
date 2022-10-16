@@ -5,6 +5,11 @@
 
 2.Открываем терминал в нужном нам месте(куда мы хотим установить папку с программой) и вводим команду ```git clone https://github.com/gefestdev/softengineering_task.git```
 
+Либо можно скачать ```ZIP``` файл
+
+![изображение](https://user-images.githubusercontent.com/56268426/196043050-e95029f4-30a2-439f-98dc-38efdfa17e2b.png)
+
+
 После этого Git склонирует к вам на ПК папку с программой.
 ____
 ## :white_check_mark:Задача 1
