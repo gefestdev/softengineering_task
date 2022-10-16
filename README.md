@@ -65,5 +65,6 @@ ____
   }
 ]
 ```
+## Результат выполнения:
 
 ![изображение](https://user-images.githubusercontent.com/56268426/196039947-73265ba5-e24b-49f6-bbdb-a1fcbc41c5a0.png)
